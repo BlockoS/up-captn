@@ -1,0 +1,926 @@
+
+                          .___            ._______
+          ._______      __|_ /____      __|_     /     .____.
+       ___|_     /_____/_ _/     /_    /   /    /_.    |    |_____
+      _)   /    //  _   / \       /.__/_  /    / _|____|_   |    (_
+      \   /    //   \  /___\_____/_|_   \______\ \_     /   _     /
+  - --/________\     _/-diP-----/   /    /--_/    /    /____\_____\-->>>
+              /______\      _ _/        /   \__________\
+                          \ \)\_________\ 
+                  
+
+
+        [ r e l e a s e   n o t e s           n e w s   u p d a t e ]
+
+        release named 'CAPTAIN CAVERN MIGHT HAVE BEEN PROUD OF US'
+        (PC ENGINE) (UP-CAPTN.ZIP)
+
+        A PC Engine intro released at DATASTORM 2014.
+        Code by Mooz
+        Music by Octapus
+
+        DATASTORM 2014 was fucking fantastic even for us as organizers.
+        I think i've never seen people so ecstatic and happy at a party
+        before. As soon as a demo had a catchy song people sang along to
+        it and cheered "Datastorm datastorm datastorm..."
+        One demo even featured a Save Truckstop Alaska scene! I don't
+        know if it was the beer, but i got emotional!
+
+        DATASTORM 2014 will forever be remembered as one of the greatest
+        scene activities i have ever participated in. I will never forget 
+        it and/or you, the visitors who made it this great!
+
+        Special thanks to Todi/Tulou who made a fantastic job running
+        the Amiga Compos.
+
+        Thanks to Magervalp/G*P who did a spledid job running the C64
+        compos.
+
+        Thanks to Hoffman and Akira who entertained the hungry
+        crowd when we failed to. Special thanks to Hoffman for doing his
+        presentation even though he was so nervous that he couldn't
+        stand still. 
+ 
+        Thanks to Johey for building us a special s-video adaptor in the
+        middle of the compo chaos.
+
+        Thanks to Randy/Insane for driving me to the hardware store
+        when there was one hour left until the deadline allthough he
+        was in the middle of coding a 64k intro. 
+       
+        Thanks to MikeJ for doing a fantastic FPGA Replay presentation.
+
+        Thanks to Sixx/G*P for putting up will all the bullshit we throw
+        his way. Thanks to Coffe and Yonx for the fantastic mike work.
+ 
+        Special thanks to Slash/Insade, Randy/Insane, Vedder/Insane, 
+        Mooz/Up Rough, Deadguy/Up Rough, and Amiga Junglism for coming
+        early and helping us setting up the party!
+
+        Thanks to Z-Nexx, X-Jammer and Qwan for helping us counting
+        the overwhelming amount of paper votes we received!
+
+        Taper/Triad, my thoughts are with you. Thanks for making a 
+        kickass demo and presenting it at DATASTORM!
+
+        The downside of writing thanks to lists in a hurry is that you
+        always forget someone important, sorry for that!
+
+        //Spot
+
+
+        a c t i v e   u p   r o u g h   h e r o e s
+
+        amiga junglism      stereofonik development
+        blade               scientist, stereofonik dev.      
+        booger              scientist
+        deadguy             scientist                        
+        dino                ink, stereofonik development
+        dipswitch           stereofonik development
+        dmg                 ink, phiber optikz operator
+        flubba	            scientist
+        goto8o              stereofonik development          
+        hamlet              phiber optikz operator           
+        infant              scientist
+        mooz                scientist, ink
+        octapus             stereofonik development
+        prowler             ink
+        qwan                co-leader, stereofonik development
+        spot                leader, ink, stereofonik development     
+        stewart one         ink, turntablism
+        syphus              stereofonik development
+        teis                stereofonik development 
+        the soul collector  ink
+        yonx                co-leader, scientist, stereofonik dev, ink.
+        zabutom             stereofonik development
+        zaner               phiber optikz operator      
+        zorro               ink
+
+
+        r e t i r e d / i n a c t i v e  u p   r o u g h   h e r o e s
+
+        biogenesis          scientist                       
+        exocet              ink
+        model               scientist
+        mortimer twang      ink, stereofonik development 
+        otro                ink
+        plus8               ink
+        varthall            stereofonik development, scientist
+
+        online         www.uprough.net
+
+
+        r e l e a s e d   s o   f a r
+
+
+        release 161 up-captn.zip
+        title       a pc engine intro released at datastorm 2014
+        category    intro
+        creator(s)  mooz, octapus
+
+        release 160 up-rcity.zip
+        title       a gameboy advance demo released at datastorm 2014
+        category    demo
+        creator(s)  flubba, spot, syphus, qwan, yonx, stewart one
+
+        release 159 up-13pce.zip
+        title       datastorm 2014 invite (pc engine)
+        category    intro
+        creator(s)  mooz, octapus, spot
+
+        release 158 spbup-ds.lha
+        title       datastorm 2014 invite (amiga)
+        category    intro
+        creator(s)  slummy, zabutom, spot
+
+        release 157 up-14swf.zip
+        title       datastorm 2014 invite (flash)
+        category    intro
+        creator(s)  spot, yonx, dubmood/razor 1911
+
+        release 156 up-14nds.zip
+        title       datastorm 2014 invite (nds)
+        category    intro
+        creator(s)  flubba, spot, etc.
+
+        release 155 up-kston.lha
+        title       kingston town - amiga jungle edit
+        category    compomusic
+        creator(s)  spot aka sammy blammy longside alborosie.
+
+        release 154 up-baddr.lha
+        title       badder dan dem - amiga jungle edit
+        category    compomusic
+        creator(s)  spot aka sammy blammy & burro banton
+
+        release 153 up-hypno.zip
+        title       hypnosis
+        category    other platform (pce) compomusic
+        creator(s)  octapus
+		
+        release 152 ht18_os4.lha
+        title       hively tracker 1.8
+        category    tool
+        creator(s)  xeron, spot, buzz
+		
+        release 151 up-d13gx.lha
+        title       all our datastorm 2013 gfx
+        category    amiga and c64 gfx
+        creator(s)  calladin, prowler, tsc
+
+        release 150 up-fame.lha
+        title       15 years of fame
+        category    amiga 500 demo 
+        creator(s)  booger, optiroc, prowler, spot, tsc, qwan
+
+        release 149 up-dance.lha
+        title       dancing star
+        category    chip music
+        creator(s)  qwan
+
+        release 148 ht17_os4.lha
+        title       hively tracker 1.7
+        category    tool
+        creator(s)  xeron, spot, buzz
+
+        release 147 up-lp1ng.lha
+        title       hits for kids lp - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 146 up-ep1ng.lha
+        title       tropic fish ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 145 up-ep2ng.lha
+        title       elektrocity ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 144 up-ep3ng.lha
+        title       aggression session ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 143 up-ep4ng.lha
+        title       mixagrip ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 142 up-ep7ng.lha
+        title       another day ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 141 up-ep8ng.lha
+        title       twangin' ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 140 up-ep9ng.lha
+        title       jr. francisco inna echochamber ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew 
+
+        release 139 up-ep10n.lha
+        title       saturday at joe's ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew + samuel'n'nasley 
+
+        release 138 up-ep11n.lha
+        title       super sharp shuriken ep - OS4/MOS version
+        category    musicdisk
+        creator(s)  up rough crew + samuel'n'nasley 
+
+        release 137 up-midep.zip
+        title       mind departure
+        category    musicdisk
+        creator(s)  qwan, deadguy, the soulcollector
+
+        release 136 up-d2012.lha
+        title       all our datastorm 2012 releases
+        category    misc
+        creator(s)  various
+
+        release 135 up-lamer.lha
+        title       anti lamer waves
+        category    64k intro
+        creator(s)  britelite, spot
+
+        release 134 up-bkick.lha
+        title       born kickin
+        category    compomusic
+        creator(s)  qwan
+
+        release 133 up-gbahx.lha
+        title       gbahx
+        category    tool
+        creator(s)  xeron, flubba
+
+        release 132 up-l3bng.lha
+        title       oh no! more hits for kids lp - side b OS4/MOS version
+        category    musicdisk
+        creator(s)  various
+
+        release 131 up-l3ang.lha
+        title       oh no! more hits for kids lp - side a OS4/MOS version
+        category    musicdisk
+        creator(s)  various
+
+        release 130 up-lp4ng.lha
+        title       uh oh! even more hits for kids lp OS4/MOS version
+        category    musicdisk
+        creator(s)  various
+
+        release 129 up-lp005.lha
+        title       blow me! more hits for kids lp 68k version
+        category    musicdisk
+        creator(s)  various
+
+        release 128 up-lp5ng.lha
+        title       blow me! more hits for kids lp OS4/MOS version
+        category    musicdisk
+        creator(s)  various
+
+        release 127 up-d2011.lha
+        title       all our releases from datastorm 2011
+        category    misc
+        creator(s)  various
+
+        release 126 up-assup.lha
+        title       ass up!
+        category    amiga compo music
+        creator(s)  spot
+
+        release 125 up-miles.lha
+        title       miles to go
+        category    amiga compo music
+        creator(s)  qwan
+
+        release 124 up-hksid.lha
+        title       hong kong sides
+        category    amiga gfx
+        creator(s)  otro
+
+        release 123 up-nicol.lha
+        title       nicole	
+        category    amiga gfx
+        creator(s)  prowler	
+
+        release 122 up-newd.lha
+        title       new-d slideshow	
+        category    demo
+        creator(s)  otro, goto80	
+
+        release 121 up-l09sm.lha
+        title       up rough lcp 2009 snes music	
+        category    compo music
+        creator(s)  syphus, spot and qwan	
+
+        release 120 up-l09om.lha
+        title       up rough lcp 2009 other music	
+        category    compo music
+        creator(s)  syphus	
+
+        release 119 up-l09ag.lha
+        title       up rough lcp 2009 amiga graphics	
+        category    compo graphics
+        creator(s)  prowler, otro, spot and coffe	
+
+        release 118 up-l09am.lha
+        title       up rough lcp 2009 amiga music	
+        category    compo tunes
+        creator(s)  goto8o, spot, syphus, qwan and yonx	
+
+        release 117 up-hpadv.zip
+        title       hively player advanced
+        category    musicdisk, replayer
+        creator(s)  flubba, spot, qwan + various musicians
+
+        release 116 up-robos.lha
+        title       robostreets
+        category    compopic
+        creator(s)  otro
+
+        release 115 ht16.lha ht15_m68k.lha ht16_mos.lha ht16_aros.lha
+        title       hively tracker 1.6
+        category    tool
+        creator(s)  xeron, spot, buzz
+
+        release 114 ht15.lha ht15_m68k.lha
+        title       hively tracker 1.5
+        category    tool
+        creator(s)  xeron, spot, buzz
+
+        release 113 up-annv.lha
+        title       anniversary
+        category    compusphere - up & rough intro (64k)
+        creator(s)  booger, spot, qwan
+
+        release 112 up-metaf.lha
+        title       metaformer
+        category    compusphere - up & rough compomusic (4ch chip)
+        creator(s)  qwan
+
+        release 111 up-usrmx.lha
+        title       urban shuffle remix
+        category    compusphere - up & rough compomusic (mod)
+        creator(s)  qwan
+
+        release 110 up-waste.lha
+        title       waste-land
+        category    compusphere - up & rough compomusic (mod)
+        creator(s)  goto80
+
+        release 109 up-lilum.lha
+        title       less is less - up rough is more
+        category    compusphere - up & rough intro (64k)
+        creator(s)  britelite, booger, spot, mortimer twang, plus8
+
+        release 108 up-annv.lha
+        title       anniversary
+        category    compusphere - up & rough intro (64k)
+        creator(s)  booger, spot, qwan
+
+        release 107 up-stdwr.lha
+        title       steal da wheelz riddim
+        category    compusphere - up & rough compomusic (xm)
+        creator(s)  spot
+
+        release 106 up-gbrkl.lha
+        title       get the l out of brooklyn
+        category    compusphere - up & rough compomusic (mod)
+        creator(s)  syphus
+
+        release 105 up-fuck.lha
+        title       fuck
+        category    ascii
+        creator(s)  spot, skope
+
+        release 104 planethively_os4.lha
+        title       a megamultiplatform hively tracker musicdisk
+        category    musicdisk
+        creator(s)  up rough and iris
+
+        release 103 up-attnp.rar
+        title       all the tracks, none of the party
+        category    music (mp3)
+        creator(s)  up rough massive
+
+        release 102 up-devil.zip
+        title       The Devil
+        category    music (mp3)
+        creator(s)  dipswitch
+
+        release 101 ht14.lha, ht14_m68k.lha, ht14_aros.lha
+        title       hively tracker 1.4
+        category    tool, tracker
+        creator(s)  xeron, spot, buzz
+
+        release 100 up-thman.lha
+        title       The Man
+        category    C64 Compo Graphics
+        creator(s)  Prowler
+
+        release o99 up-music.lha
+        title       All Up Rough Mods from BFP 07
+        category    Compo Music
+        creator(s)  Qwan, Dino, Yoki and Spot
+
+        release o98 up-shrms.lha
+        title       shrooms
+        category    big floppy people 2007 graphics (amiga)
+        creator(s)  Prowler
+
+        release o97 up-clska.lha
+        title       cool ska cool
+        category    big floppy people 2007 demo (amiga)
+        creator(s)  Booger, Model, Kalms/TBL, Spot, Plus8, Yoki, Qwan, Skope
+
+        release o96 up-ncdgs.lha
+        title       no cute dogs
+        category    sankt lars meeting iii compomusic (sid)
+        creator(s)  dino
+
+        release o95 up-pussy.lha
+        title       tear a piece of pussy out
+        category    sankt lars meeting iii compomusic (mod)
+        creator(s)  spot
+
+        release o94 up-2teis.lha
+        title       two times teis
+        category    music (mp3)
+        creator(s)  teis
+
+        release o93 ht12_m68k.lha
+        title       hively tracker 1.2 (68k version)
+        category    tool, tracker
+        creator(s)  xeron, spot, buzz
+
+        release o92 ht12.lha
+        title       hively tracker 1.2
+        category    tool, tracker
+        creator(s)  xeron, spot, buzz
+
+        release o91 ht11.lha
+        title       hively tracker 1.1
+        category    tool, tracker
+        creator(s)  xeron, spot
+
+        release o90 ht10.lha
+        title       hively tracker 1.0
+        category    tool, tracker
+        creator(s)  xeron, spot
+
+        release o89 up-ms2k1.avi
+        title       mekka symposium 2001 report
+        category    video
+        creator(s)  plus8, spot, mortimer twang
+
+        release o88 up-shfgt.lha
+        title       shadow fighter
+        category    dentro
+        creator(s)  booger, spot and qwan
+
+        release o87 up-bfpps.lha
+        title       all our c64 entries from bfp 2006 in PSID format.
+        category    big floppy people 2006 SID enries
+        creator(s)  dino, yoki, goto80 and qwan
+
+        release o86 up-bfp64.lha
+        title       all our c64 entries from bfp 2006
+        category    big floppy people 2006 enries
+        creator(s)  dino, spot, yoki, goto80 and qwan
+
+        release o85 up-beats.lha
+        title       beats in springtime
+        category    big floppy people 2006 other music compo (mod).
+        creator(s)  qwan
+
+        release o84 up-vafls.lha
+        title       check your dick
+        category    big floppy people 2006 other music compo (mod).
+        creator(s)  goto80
+
+        release o83 up-cydik.lha
+        title       check your dick
+        category    big floppy people 2006 other music compo (mod).
+        creator(s)  spot
+
+        release o82 up-pigns.zip
+        title       pigeons
+        category    breakpoint 2006 photo.
+        creator(s)  prowler
+
+        release o81 up-fdrag.zip
+        title       forest dragon
+        category    breakpoint 2006 freestyle graphics (pixel).
+        creator(s)  prowler
+
+        release o80 upvsrno.lha
+        title       tyson
+        category    intro, released at breakpoint 2006
+        creator(s)  britelite, spot, mortimer twang, prowler
+
+        release o79 up-drunk.lha
+        title       drunk 15 minute ST-01 fast music competition entries
+        category    music
+        creator(s)  spot, qwan, prowler, mortimer twang, booger, goto80, yoki
+
+        release o78 up-drsta.lha
+        title       dear santa
+        category    x-mas intro
+        creator(s)  baby booger, spot jr, goto70
+
+        release o77 up-lp004.lha
+        title       uh-oh! even more hits for kids lp
+        category    musicdisk
+        creator(s)  up rough crew + guests
+
+        release o76 up-br2k5.mp3
+        title       bunker 2005 live session
+        category    music, live (mp3)
+        creator(s)  qwan & yoki
+
+        release o75 up-hmnt.zip
+        title       hello my name isn't
+        category    lcp 2005 sid music release, 7:th in the sid compo.
+        creator(s)  dino.
+
+        release o74 up-chpop.lha
+        title       dig my sublimi
+        category    lcp 2005 music release, 1:st in the 'other music' compo.
+        creator(s)  goto80.
+
+        release o73 up-disub.lha
+        title       dig my sublimi
+        category    lcp 2005 music release, 8:th in the 'other music' compo.
+        creator(s)  qwan.
+
+        release o72 up-brukd.lha
+        title       bruk dem out! dub
+        category    lcp 2005 music release, 6:th in the 'other music' compo.
+        creator(s)  yoki.
+
+        release o71 up-tbilr.lha
+        title       to be in love ameega roots remix
+        category    lcp 2005 music release, 2:nd in the 'other music' compo.
+        creator(s)  spot.
+
+        release o70 up-cs2k5.lha
+        title       compusphere 2005 music releases
+        category    all up rough mods from compusphere 2005.
+        creator(s)  skope, qwan and spot.
+
+        release o69 up-blood.zip
+        title       blood out
+        category    ogg released at evoke 2004.
+        creator(s)  dipswitch
+
+        release o68 up-brock.zip
+        title       up rough body rock
+        category    mod released at symphony 2004.
+        creator(s)  dipswitch
+
+        release o67 up-livaf.lha
+        title       live axxion - the showdown - patch!
+        category    demo released at breakpoint 2004.
+        creator(s)  stewart one, model, booger, spot, skope.
+
+        release o66 up-livax.lha
+        title       live axxion - the showdown
+        category    demo released at breakpoint 2004.
+        creator(s)  stewart one, model, booger, spot, skope.
+
+        release o65 up-sbsky.lha
+        title       summer blue skyes
+        category    compomusic from JRP04. (chip)
+        creator(s)  qwan
+
+        release o64 up-nsdie.lha
+        title       never say die
+        category    compomusic from JRP04. (4ch)
+        creator(s)  qwan
+
+        release o63 up-phunk.lha
+        title       phunk ya away
+        category    compomusic from TRSAC 2001. (4ch)
+        creator(s)  qwan
+
+        release o62 up-csxiv.lha
+        title       compusphere 14 invitation intro
+        category    intro
+        creator(s)  booger, spot, skope
+
+        release o61 up-bb10f.lha
+        title       beatblox 1.0 - 060 fix
+        category    soundtoy
+        creator(s)  model
+
+        release o60 up-niva.lha
+        title       niva
+        category    soundtoy
+        creator(s)  model
+
+        release o59 spbotani.lha
+        title       lost in otaniemi
+        category    intro, a co-op between spaceballs and up rough
+        creator(s)  slummy and qwan.
+
+        release o58 up-nclue.lha
+        title       tunnel effect
+        category    compomusic from underscore 2003. (small)
+        creator(s)  qwan
+
+        release o57 up-tunep.lha
+        title       tunnel effect
+        category    intro
+        creator(s)  spot, booger, qwan.
+
+        release o56 up-gnome.lha
+        title       gnomedance
+        category    compomusic from underscore 2003. (chip)
+        creator(s)  qwan
+
+        release o55 up-pulse.lha
+        title       pulsewidth poem
+        category    compomuisc from underscore 2003. (4ch)
+        creator(s)  qwan
+
+        release o54 up-disin.avi
+        title       disintegration
+        category    compomovie from underscore 2003. (wild)
+        creator(s)  wolfatron
+
+        release o53 up-yayah.lha
+        title       yakima yash
+        category    compomusic from underscore 2003. (multi)
+        creator(s)  qwan
+
+        release o52 upvsapt.lha
+        title       haakan
+        category    intro
+        creator(s)  strife, spot, mortimer twang.
+
+        release o51 up-lp03b.lha
+        title       oh no! more hits for kids lp - side b
+        category    musicdisk
+        creator(s)  up rough crew + various
+
+        release o50 up-lp03a.lha
+        title       oh no! more hits for kids lp - side a
+        category    musicdisk
+        creator(s)  up rough crew + various
+
+        release o49 up-ilove.lha
+        title       to be in love
+        category    compomusic from compusphere 2002 (multi)
+        creator(s)  spot
+
+        release o48 up-warez.lha
+        title       hong kong warez
+        category    compomusic from compusphere 2002 (chip)
+        creator(s)  skope
+
+        release o47 up-style.mp3
+        title       up rough karate style
+        category    compomusic from compusphere 2002 (mp3)
+        creator(s)  goto80, qwan & skope.
+
+        release o46 up-tybbs.lha
+        title       the yard bbs intro
+        category    bbs intro
+        creator(s)  booger, spot & goto80. 
+
+        release o45 up-ep011.lha
+        title       super sharp shuriken ep
+        category    musicdisk
+        creator(s)  up rough crew + samuel'n'nasley 
+
+        release o44 up-lp002.lha
+        title       more hits for kids lp
+        category    musicdisk
+        creator(s)  up rough crew  
+
+        release o43 up-legop.lha
+        title       lego editor preview
+        category    toy
+        creator(s)  booger, spot, skope, mike, mortimer twang  
+
+        release o42 up-1977.zip
+        title       1977
+        category    C64 Intro
+        creator(s)  dino, goto80, iopop 
+
+        release o41 up-lp001.lha
+        title       hits for kids lp
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o40 up-tumbl.lha
+        title       tumblebeats
+        category    music @ underscore 2002
+        creator(s)  qwan
+
+        release o39 up-ep010.lha
+        title       saturday at joe's ep
+        category    musicdisk
+        creator(s)  up rough crew + samuel'n'nasley
+
+        release o38 epa-md.lha
+        title       møkkademo 2001
+        category    demo
+        creator(s)  kalms, spot, & qwan
+
+        release o37 tblvsup.lha
+        title       gbg
+        category    demo
+        creator(s)  kalms, louie, spot, idol, qwan & goto80
+
+        release o36 up-ep009.lha
+        title       jr. francisco inna echochamber ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o35 up-ep008.lha
+        title       twangin' ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release 034 sige dame maz
+        title       sige_dame_maz.mp3
+        category    mp3
+        creator(s)  wentakura
+
+        release o33 up-rockg.lha
+        title       rockers galore
+        category    compomusic from underscore (4ch)
+        creator(s)  skope
+
+        release o32 up-preye.lha
+        title       private eye
+        category    compomusic from underscore (mp3)
+        creator(s)  qwan
+
+        release o31 up-wildj.lha
+        title       the wildjazz style!
+        category    compomusic from underscore (multi)
+        creator(s)  qwan
+
+        release o3o up-score.lha
+        title       under the score
+        category    compomusic from underscore (chip)
+        creator(s)  qwan
+
+        release o29 up-analo.lha
+        title       analogi'que
+        category    compomusic from underscore (4ch)
+        creator(s)  qwan
+
+        release o28 up-7-001.lha
+        title       automatic gear single 
+        category    single
+        creator(s)  up rough crew + substance
+
+        release o27 up-april.lha
+        title       april in paris 
+        category    demo
+        creator(s)  booger model spot plus8 skope
+
+        release o26 up-ep007.lha
+        title       another day ep 
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o25 up-rulez.lha
+        title       ink 
+        category    intro
+        creator(s)  booger model mortimer twang skope & spot 
+
+        release o24 up-crstl.lha
+        title       thx.crystal_cracktro 
+        category    module
+        creator(s)  skope & spot
+
+        release o23 up-ep006.lha
+        title       technical knockout ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o22 up-ep005.lha
+        title       lowtech ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o21 up-ep004.lha
+        title       mixagrip ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o20 up-ep003.lha
+        title       aggression session ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o19 up-ep002.lha
+        title       elektrocity ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o18 up-ep001.lha
+        title       tropic fish ep
+        category    musicdisk
+        creator(s)  up rough crew
+
+        release o17 up-herth.lha
+        title       the hermano theory
+        category    drum+bass/ascii combo
+        creator(s)  skope
+
+        release o16 up-spect.lha
+        title       spectrum
+        category    sound creator
+        creator(s)  model
+
+        release o15 up-intro.lha
+        title       introducin
+        category    64k intro @ icing 99
+        creator(s)  skope, spot, blueberry/efreet
+
+        release o14 up-warp.lha
+        title       in warp
+        category    drum+bass @ icing 99
+        creator(s)  qwan
+
+        release o13 up-rough.lha
+        title       rough cutz
+        category    instr. hiphop @ icing 99
+        creator(s)  spot
+
+        release o12 up-april.lha
+        title       april in paris
+        category    instr. hiphop @ icing 99
+        creator(s)  skope
+
+        release o11 up-dundr.lha
+        title       dundersylt
+        category    drum+bass @ icing 99
+        creator(s)  elusive
+
+        release o1o up-tiny.txt
+        title       tiny beats
+        category    drum+bass/ascii combo
+        creator(s)  skope
+
+        release oo9 up-myres.lha
+        title       my respekt
+        category    instr. hiphop/ascii combo
+        creator(s)  spot, mortimer twang
+
+        release oo8 up-amluv.lha
+        title       all my luv
+        category    ascii
+        creator(s)  spot
+
+        release oo7 up-lowin.lha
+        title       lower intentions
+        category    drum+bass/ascii combo
+        creator(s)  skope, spot
+
+        release oo6 up-kevin.lha
+        title       kevin
+        category    raytrace @ compusphere x
+        creator(s)  plus8
+
+        release oo5 up-proag.lha
+        title       professor aggressor
+        category    drum+bass @ compusphere x
+        creator(s)  skope
+
+        release oo4 up-disko.lha
+        title       disko divas
+        category    house @ compusphere x
+        creator(s)  spot
+
+        release oo3 up-anthm.lha
+        title       uprough anthem
+        category    drum+bass @ icing 98
+        creator(s)  skope
+
+        release oo2 up-ndrnt.lha
+        title       underneath our home
+        category    experimental mod @ icing 98
+        creator(s)  spot
+
+        release oo1 up-ad001.lha
+        title       analogue drum kits vol 1
+        category    samplepack
+        creator(s)  skope
+
+
+
+        c a t c h ` e m   a l l   a t   www.uprough.net
+
+
+
