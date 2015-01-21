@@ -12,11 +12,12 @@
 [Captain Cavern Might Have Been Proud Of Us](http://www.pouet.net/prod.php?which=62591)
 --------------------------------------------
 
-A PC Engine intro released at [DATASTORM 2014](http://datastorm.se/).
+A PC Engine intro released at [DATASTORM 2014](http://datastorm.se/). It won
+the 2nd place at the console demo competition.
     * Code by Mooz
     * Music by Octapus
 
-Run the following command in order to compile the invtro.
+Run the following command in order to compile the intro.
 ```
 pceas -I . -I include -I src -raw src/up-captn.asm 
 ```
