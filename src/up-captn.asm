@@ -96,10 +96,11 @@ main_loop:
     cli
     
     stw    #ROTOZOOM_FRAME_COUNT, <fxloopcnt
-    
+
 .fx0_loop:
-    lda    #0
-    jsr    wait_vsync
+;    lda    #0
+;    jsr    wait_vsync
+    
     jsr    rotozoom_update
     
     dec    <fxloopcnt

@@ -6,7 +6,7 @@
 draw_mesh_init:
     ; set vdc control register
 	vreg  #5
-	; disable bg, enable sprite, vertical blanking and scanline interrupt
+	; disable bg, sprite, vertical blanking and scanline interrupt
 	stz   <vdc_crl
 	st1   #$00
     st2   #$00
@@ -73,8 +73,8 @@ draw_mesh_init:
 	
 	; set vdc control register
 	vreg  #5
-	; enable bg, enable sprite, vertical blanking and scanline interrupt
-	lda   #%11001100
+	; enable bg, vertical blanking and scanline interrupt and disable sprites
+	lda   #%10001100
 	sta    <vdc_crl
 	sta   video_data_l
 	st2   #$00
